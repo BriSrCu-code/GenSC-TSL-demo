@@ -8,7 +8,9 @@ Given a multi-speaker recording and an enrollment utterance specifying the targe
 
 The following demo shows GenSC-TSL tracking an enrolled moving speaker in a multi-speaker scene. The visualization jointly presents the target activity, GCF localization map, target/non-target trajectories, pairwise localization errors, and frame-wise 2-D position error.
 
-https://github.com/user-attachments/assets/154aea01-845a-4bd8-89e3-e0d4f62c2239
+
+https://github.com/user-attachments/assets/ddfde406-72e4-4736-ab2e-3b5be83708ef
+
 
 The visualization includes:
 
